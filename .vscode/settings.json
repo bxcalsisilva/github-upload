@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "black",
+    "editor.fontSize": 16,
+    "python.pythonPath": "D:\\alien_invasion\\Scripts\\python"
+}
